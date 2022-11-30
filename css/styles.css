@@ -34,7 +34,6 @@
   width: 1200px;
   margin: 0 auto;
   padding: 0 15px;
-  outline: 2px solid lightcoral;
 }
 .border {
   border-bottom: 1px solid var(--border-portfolio);
