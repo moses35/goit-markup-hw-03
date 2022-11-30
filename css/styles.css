@@ -172,6 +172,9 @@ p {
   margin-top: 0;
   margin-bottom: 50px;
 }
+.section-nopd {
+  padding-top: 0;
+}
 
 .workers {
   background-color: var(--filter-background-color);
